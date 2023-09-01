@@ -2,7 +2,24 @@
 
 Se você está interessado em aprender sobre design, teoria das cores e formas, a ideia aqui é fornecer um roteiro passo a passo para ajudá-lo a começar. O design é uma disciplina ampla que envolve a criação visual e a comunicação eficaz. 
 
-Acho que é um bom começo: 
+## 0. Jornada do usuário
+A experiência do usuário e a jornada do usuário são tópicos interligados e cruciais para criar produtos e serviços que atendam às necessidades e expectativas dos usuários. Esses recursos devem ajudá-lo a aprofundar seu entendimento e habilidades nessas áreas.
+
+A User Journey (ou Jornada do Usuário, em Português) é o percurso feito por um usuário para alcançar algum objetivo (realizar uma compra, assinar um serviço etc.) dentro de um site ou aplicativo móvel. 
+
+Ela inclui desde o contato inicial ou descoberta, passando pela interação e engajamento, até a etapa de conversão. 
+
+É por meio do mapeamento dessas Jornadas que designers buscam identificar maneiras de permitir que o usuário atinja seu objetivo da maneira mais rápida e fácil possível.
+
+Video: Como criar um Mapa da Jornada do Usuário? | UX Design na Prática
+https://www.youtube.com/watch?v=HdktfUSqVzc
+
+Video: Como mapear a Jornada do Usuário
+https://www.youtube.com/watch?v=EiroPM-lL-U
+
+Artigo: https://awari.com.br/jornada-do-usuario/?utm_source=blog
+
+Artigo: http://designr.com.br/mapeamento-da-experiencia-do-usuario-jornada-do-usuario-e-fluxos-do-usuario/
 
 ## 1. Introdução ao Design
 Comece com uma compreensão básica do que é design e por que é importante.
