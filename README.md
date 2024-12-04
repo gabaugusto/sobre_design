@@ -2,15 +2,17 @@
 
 ## Usuários e Design
 
-### Usuários
+### Entender Usuários
 
 #### Introdução ao Design de Experiência do Usuário
 
+Entender o que é e o que faz o usuário.
+
 O design de experiência do usuário (UX) é o processo de criar produtos digitais que proporcionem experiências significativas e relevantes aos usuários. Isso envolve a concepção e o desenvolvimento de produtos que sejam úteis, fáceis de usar e agradáveis de interagir.
 
-O que é repertório
+O que é repertório?
 
-Como construir um repertório de usuário
+Como construir um repertório de usuário?
 
 ### Jornada do usuário
 
@@ -64,13 +66,21 @@ Explore os princípios fundamentais que orientam a criação visual.
 
 - UI
 
-### Prototipagem
+## Prototipagem
 
 - Wireframes
 
 - Protótipos de Alta Fidelidade
 
-- Ferramentas de Prototipagem
+### Tópicos para estudo
+
+- Testes de Usabilidade
+
+- Design de Interação
+
+- Design de Interface
+
+### Ferramentas de Prototipagem
 
 **Figma**: https://www.figma.com/
 
@@ -82,13 +92,8 @@ Explore os princípios fundamentais que orientam a criação visual.
 
 **InVision**: https://www.invisionapp.com/
 
-- Testes de Usabilidade
 
-- Design de Interação
-
-- Design de Interface
-
--- Componentes de Interface
+### Componentes de Interface
 
 **uiverse**: https://uiverse.io/
 
@@ -120,9 +125,19 @@ Explore os princípios fundamentais que orientam a criação visual.
 
 Pensamento algorítmico é uma habilidade que envolve a criação de soluções passo a passo para resolver um problema ou realizar uma tarefa. Ele é um dos pilares do pensamento computacional, que também inclui a decomposição, a abstração e o reconhecimento de padrões.
 
+### Paradigmas de Programação
+
+Programação Estruturada/Funcional
+
+Programação Orientada a Objetos
+
 ### Estruturas de Dados
 
-### Paradigmas de Programação
+Lista 
+
+Pilha
+
+Árvore binária
 
 ### Padrões de Projeto
 
@@ -134,13 +149,13 @@ Pensamento algorítmico é uma habilidade que envolve a criação de soluções 
 
 ### Design Patterns
 
-### CyberSecurity
+## CyberSecurity
 
 https://www.w3schools.com/cybersecurity/index.php
 
-# Banco de Dados
+## Banco de Dados
 
-## Introdução a Banco de Dados
+### Introdução a Banco de Dados
 
 * Dados x Informação
 
@@ -172,7 +187,7 @@ https://www.w3schools.com/cybersecurity/index.php
 
 * Business Intelligence
 
-### Materiais de Referência
+#### Materiais de Referência
 
 - Programação Dinâmica: https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg
 
@@ -187,10 +202,7 @@ https://www.w3schools.com/datascience/default.asp
 
 ### Introdução a Estatística
 
-Dados 
-
 ####  Introdução a Deep Learning
-
 
 ## Desenvolvimento Mobile com JetPack Compose
 
@@ -221,4 +233,39 @@ Composables: Jetpack Compose introduz o conceito de Composables, que são funç�
 #### Android app architecture
 
 #### Kotlin coroutines
+
+
+## Desenvolvimento Web com React
+
+### Introdução 
+
+#### HTML 
+
+* Acessibilidade
+
+#### CSS
+
+Do básico a Frameworks
+
+* Flexbox
+
+* Bootstrap
+
+* Tailwind CSS
+
+#### JavaScript
+
+* ES6
+
+* TypeScript
+
+* Node.js
+
+* Express.js
+
+* React
+
+* Redux
+
+
 
