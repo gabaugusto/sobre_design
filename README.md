@@ -27,6 +27,7 @@ Comece com uma compreensão básica do que é design e por que é importante.
 Explore os princípios fundamentais que orientam a criação visual.
 
 Livro: "Não me Faça Pensar" por Steve Krug
+
 Vídeo: "O que é Design?" por Mike Monteiro (https://www.youtube.com/c/theschooloflifetv)
 
 ## 3. Teoria de Cores
