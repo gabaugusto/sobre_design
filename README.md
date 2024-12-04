@@ -30,7 +30,7 @@ Livro: "Não me Faça Pensar" por Steve Krug
 
 Vídeo: "O que é Design?" por Mike Monteiro (https://www.youtube.com/c/theschooloflifetv)
 
-## 3. Teoria de Cores
+## 2. Teoria de Cores
 
 A teoria das cores e formas são fundamentais para entender como elementos visuais interagem e criam impacto.
 Livro: http://riut.utfpr.edu.br/jspui/bitstream/1/1582/4/teoriacor.pdf
@@ -43,21 +43,21 @@ Um artigo e um e video Artigo: https://artsandculture.google.com/story/the-secre
 Video: https://www.youtube.com/watch?v=VIg5HkyauoY
 
 
-## 5. Design Gráfico
+## 3. Design Gráfico
 Aprofunde-se no design gráfico, que abrange layouts, tipografia e comunicação visual.
 
 Fontes Recomendadas:
 Livro: "Pense com Tipos" por Ellen Lupton
 Curso Online: "Design Gráfico para Iniciantes" na Udemy
 
-## 6. Psicologia do Design
+## 4. Psicologia do Design
 Entenda como a psicologia humana influencia as decisões de design e interações do usuário.
 Fontes Recomendadas:
 
 Curso Online: "Psicologia das Interações" na Alura
 Artigo: "Design e a Mente Humana" na UX Collective
 
-## 7. Tipografia 
+## 5. Tipografia 
 A tipografia é uma área vasta e rica, e esses materiais ajudarão você a compreender os princípios fundamentais, explorar diferentes fontes e aplicar tipografia de forma eficaz em seus projetos de design.
 A tipografia é uma parte crucial do design gráfico e da comunicação visual. Aqui estão alguns materiais interessantes sobre tipografia que você pode explorar para aprofundar seus conhecimentos:
 
