@@ -46,6 +46,20 @@ Explore os princípios fundamentais que orientam a criação visual.
 
 ### Teoria das Cores
 
+A teoria das cores é a base para compreender como as cores interagem e influenciam emoções e percepções. Ela é formada por conceitos como o círculo cromático, cores primárias, secundárias e terciárias, além de harmonias como complementar, análoga e triádica. Usar cores estrategicamente ajuda a transmitir mensagens, criar contrastes e gerar impacto visual. 
+
+Por exemplo, o McDonald’s usa **vermelho** para estimular o apetite e criar urgência, enquanto o **amarelo** transmite felicidade e calor, tornando a marca convidativa. A combinação das duas cores promove excitação e conforto, incentivando o consumo rápido e reforçando a identidade acessível e familiar da marca.
+  
+**Ferramentas úteis:** 
+- [Adobe Color](https://color.adobe.com)  
+- [Coolors](https://coolors.co)
+
+**Leitura recomendada:** "Interação da Cor" por Josef Albers
+
+**Alguns livros no drive:** [Livros](https://drive.google.com/drive/folders/10GBDfecmDM__ujPRQlkrvuHogTBLsvn2?usp=sharing)
+
+**Vídeo sobre [Psicologia das Cores](https://www.youtube.com/watch?v=DRMyg5e5YnQ)**
+
 ### Tipografia
 
 ### Grids
