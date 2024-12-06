@@ -167,7 +167,8 @@ Alguns **livros** no drive: [Livros](https://drive.google.com/drive/folders/10GB
 
 ## 🔐 Cybersecurity
 Explore conceitos fundamentais de segurança digital:  
-- [Curso de CyberSecurity - W3Schools](https://www.w3schools.com/cybersecurity/index.php)  
+- [Curso de CyberSecurity - W3Schools](https://www.w3schools.com/cybersecurity/index.php)
+- [Análise de Tráfego em Redes TCP/IP - Jõao Eriberto Mota Filho](https://www.amazon.com.br/An%C3%A1lise-Tr%C3%A1fego-Redes-TCP-IP/dp/8575223755) 
 
 ---
 
