@@ -273,6 +273,9 @@ Jetpack Compose oferece uma série de benefícios em comparação com a abordage
   - **Bootstrap**  
   - **Tailwind CSS**
 
+- 📌 **Materiais de Referência**
+  - O Jogo do [Sapo Flex](https://flexboxfroggy.com/#pt-br)
+
 ---
 
 ##### **JavaScript**
