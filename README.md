@@ -122,6 +122,7 @@ Alguns **livros** no drive: [Livros](https://drive.google.com/drive/folders/10GB
 ## 💻 Lógica de Programação
 ### 📌 Introdução
 - **O que é?**: É a base para o desenvolvimento de software, envolvendo resolução de problemas com algoritmos.  
+[Vídeo sobre lógica](https://www.youtube.com/watch?v=cDA3_5982h8)
 
 ---
 
@@ -131,7 +132,8 @@ Alguns **livros** no drive: [Livros](https://drive.google.com/drive/folders/10GB
 
 - **Pensamento Algorítmico:**  
   Habilidade de criar soluções passo a passo para problemas.  
-  - **Exemplo:** Planejar a rota mais rápida para um destino usando um GPS.  
+  - **Exemplo:** Planejar a rota mais rápida para um destino usando um GPS.
+  [Vídeo sobre Algoritmos e Pensamento Algorítmo](https://www.youtube.com/watch?v=mstMhMT_UeA) 
 
 ---
 
@@ -221,6 +223,7 @@ Explore conceitos fundamentais de segurança digital:
 - 📌 **Materiais de Referência**
   - **Canal no YouTube:** [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)  
   - **Canal no YouTube:** [Torne-se um Programador](https://www.youtube.com/@torneseumprogramador)
+  - **Canal no Youtube:** [Hashtag Treinamentos](https://www.youtube.com/@HashtagProgramacao)
 
 ---
 
@@ -284,3 +287,7 @@ Jetpack Compose oferece uma série de benefícios em comparação com a abordage
 - **Redux:** Gerenciamento de estado previsível para aplicações React.
 
 ---
+
+## **Siglas e Nomemclaturas no mundo da tecnologia**
+- 📌 **Materiais de Referência**
+  - **Dicionário do programador:** [Acessar playlist do Youtube](https://www.youtube.com/playlist?list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o)
